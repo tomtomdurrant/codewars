@@ -1,0 +1,6 @@
+[submodule "javascript-codewars"]
+	path = javascript-codewars
+	url = https://github.com/tomtomdurrant/javascript-codewars.git
+[submodule "c-sharp-codewars"]
+	path = c-sharp-codewars
+	url = https://github.com/tomtomdurrant/c-sharp-codewars.git
